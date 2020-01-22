@@ -1,0 +1,12 @@
+C:\Users\Avinash.Tiwari\source\repos\CosmosTableSamples\CosmosTableSamples\bin\Debug\netcoreapp2.1\CosmosTableSamples.deps.json
+C:\Users\Avinash.Tiwari\source\repos\CosmosTableSamples\CosmosTableSamples\bin\Debug\netcoreapp2.1\CosmosTableSamples.runtimeconfig.json
+C:\Users\Avinash.Tiwari\source\repos\CosmosTableSamples\CosmosTableSamples\bin\Debug\netcoreapp2.1\CosmosTableSamples.runtimeconfig.dev.json
+C:\Users\Avinash.Tiwari\source\repos\CosmosTableSamples\CosmosTableSamples\bin\Debug\netcoreapp2.1\CosmosTableSamples.dll
+C:\Users\Avinash.Tiwari\source\repos\CosmosTableSamples\CosmosTableSamples\obj\Debug\netcoreapp2.1\CosmosTableSamples.csproj.CoreCompileInputs.cache
+C:\Users\Avinash.Tiwari\source\repos\CosmosTableSamples\CosmosTableSamples\obj\Debug\netcoreapp2.1\CosmosTableSamples.AssemblyInfoInputs.cache
+C:\Users\Avinash.Tiwari\source\repos\CosmosTableSamples\CosmosTableSamples\obj\Debug\netcoreapp2.1\CosmosTableSamples.AssemblyInfo.cs
+C:\Users\Avinash.Tiwari\source\repos\CosmosTableSamples\CosmosTableSamples\bin\Debug\netcoreapp2.1\CosmosTableSamples.pdb
+C:\Users\Avinash.Tiwari\source\repos\CosmosTableSamples\CosmosTableSamples\obj\Debug\netcoreapp2.1\CosmosTableSamples.dll
+C:\Users\Avinash.Tiwari\source\repos\CosmosTableSamples\CosmosTableSamples\obj\Debug\netcoreapp2.1\CosmosTableSamples.pdb
+C:\Users\Avinash.Tiwari\source\repos\CosmosTableSamples\CosmosTableSamples\bin\Debug\netcoreapp2.1\Settings.json
+C:\Users\Avinash.Tiwari\source\repos\CosmosTableSamples\CosmosTableSamples\obj\Debug\netcoreapp2.1\CosmosTableSamples.csprojAssemblyReference.cache

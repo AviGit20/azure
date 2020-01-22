@@ -1,0 +1,3 @@
+{
+  "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=avicosmos1;AccountKey=68ritDaGRted5tAqAtFz8ot9VC05ykjrGEcPs69DEBBfVOecNKKORXI15JIZ4kkRHwADXg7936DQLNM69C1itA==;TableEndpoint=https://avicosmos1.table.cosmos.azure.com:443/;"
+}
